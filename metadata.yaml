@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32605
     wikipedia: http://es.wikipedia.org/wiki/Manuel_Fern%C3%A1ndez_y_Gonz%C3%A1lez
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44584#Los-monf-es-de-las-Alpujarras
 gutenberg_issued: '2014-01-04'
 gutenberg_type: Text
 identifiers:
