@@ -1,0 +1,30 @@
+_repo: Los-monf-es-de-las-Alpujarras_44584
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44584-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fernández y González, Manuel
+    aliases:
+    - González, Manuel Fernández y
+    - Fernandez y Gonzalez, Manuel
+    birthdate: 1821
+    deathdate: 1888
+    gutenberg_agent_id: '32605'
+    url: http://www.gutenberg.org/2009/agents/32605
+    wikipedia: http://es.wikipedia.org/wiki/Manuel_Fern%C3%A1ndez_y_Gonz%C3%A1lez
+description: ''
+gutenberg_issued: '2014-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44584'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PQ'
+title: 'Los monfíes de las Alpujarras: novela original'
+url: http://www.gutenberg.org/ebooks/44584
